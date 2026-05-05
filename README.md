@@ -54,8 +54,7 @@ The goal is to improve the accuracy of ultrasound-based thyroid cancer detection
 ---
 
 ## 📷 Project Media
-(<img width="3024" height="4032" alt="WhatsApp Image 2026-05-05 at 12 42 35" src="https://github.com/user-attachments/assets/9b384088-8ddc-4370-a5b5-13f38ef88d08" />
-)
+<img width="3024" height="4032" alt="WhatsApp Image 2026-05-05 at 12 42 35" src="https://github.com/user-attachments/assets/9b384088-8ddc-4370-a5b5-13f38ef88d08" />
 
 ---
 
